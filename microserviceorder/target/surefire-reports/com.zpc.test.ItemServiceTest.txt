@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.zpc.test.ItemServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 15.051 s <<< FAILURE! - in com.zpc.test.ItemServiceTest
+test(com.zpc.test.ItemServiceTest)  Time elapsed: 4.654 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.zpc.test.ItemServiceTest.test(ItemServiceTest.java:27)
+
