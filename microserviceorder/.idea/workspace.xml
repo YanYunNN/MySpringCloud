@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0d964e3-33a2-46ad-8a69-d82d05448834" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zpc/order/service/ItemService2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microserviceitem/src/main/java/com/zpc/item/runner/ItemApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microserviceitem/src/main/java/com/zpc/item/runner/ItemApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserviceitem/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microserviceitem/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../microserviceitem/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../microserviceitem/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../microserviceitem/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../microserviceitem/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microserviceitem/target/classes/com/zpc/item/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microserviceitem/target/classes/com/zpc/item/controller/ItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microserviceitem/target/classes/com/zpc/item/entity/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microserviceitem/target/classes/com/zpc/item/entity/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microserviceitem/target/classes/com/zpc/item/runner/ItemApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microserviceitem/target/classes/com/zpc/item/runner/ItemApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../microserviceitem/target/classes/com/zpc/item/service/ItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microserviceitem/target/classes/com/zpc/item/service/ItemService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microserviceorder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microserviceorder.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -31,22 +14,11 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zpc/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zpc/order/service/OrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/zpc/test/ItemServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zpc/test/ItemServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/entity/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/entity/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/entity/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/entity/OrderDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/entity/OrderDetail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/properties/ItemProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/properties/ItemProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/properties/OrderProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/properties/OrderProperties.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/runner/OrderApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/runner/OrderApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/service/ItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/service/ItemService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/zpc/order/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zpc/order/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zpc/test/ItemServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-eureka-server/src/main/java/com/zpc/springcloud/eureka/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka-server/src/main/java/com/zpc/springcloud/eureka/WebSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-eureka-server2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka-server2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-eureka-server2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka-server2/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +39,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -257,26 +229,10 @@
       <updated>1540907452090</updated>
       <workItem from="1540907454752" duration="4470000" />
       <workItem from="1540993095539" duration="20666000" />
-      <workItem from="1595993066688" duration="12572000" />
+      <workItem from="1595993066688" duration="13171000" />
+      <workItem from="1596072474201" duration="10379000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="ItemServiceTest - 2018.11.03 at 12h 05m 15s.xml">
-      <configuration name="ItemServiceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemServiceTest - 2018.11.03 at 12h 10m 13s.xml">
-      <configuration name="ItemServiceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemServiceTest_test - 2018.11.03 at 12h 02m 40s.xml">
-      <configuration name="ItemServiceTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemServiceTest_test - 2018.11.03 at 12h 38m 00s.xml">
-      <configuration name="ItemServiceTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemServiceTest_test - 2018.11.03 at 12h 44m 10s.xml">
-      <configuration name="ItemServiceTest.test" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
@@ -294,54 +250,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596001144062" />
-    <state width="1493" height="243" key="GridCell.Tab.0.bottom" timestamp="1596015992621">
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom" timestamp="1596093793359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992621" />
-    <state width="1493" height="243" key="GridCell.Tab.0.center" timestamp="1596015992620">
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793359" />
+    <state width="1493" height="243" key="GridCell.Tab.0.center" timestamp="1596093793359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992620" />
-    <state width="1493" height="243" key="GridCell.Tab.0.left" timestamp="1596015992620">
+    <state width="1493" height="243" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793359" />
+    <state width="1493" height="243" key="GridCell.Tab.0.left" timestamp="1596093793359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992620" />
-    <state width="1493" height="243" key="GridCell.Tab.0.right" timestamp="1596015992620">
+    <state width="1493" height="243" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793359" />
+    <state width="1493" height="243" key="GridCell.Tab.0.right" timestamp="1596093793359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992620" />
-    <state width="1493" height="243" key="GridCell.Tab.1.bottom" timestamp="1596015992510">
+    <state width="1493" height="243" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793359" />
+    <state width="1493" height="243" key="GridCell.Tab.1.bottom" timestamp="1596093793219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992510" />
-    <state width="1493" height="243" key="GridCell.Tab.1.center" timestamp="1596015992509">
+    <state width="1493" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793219" />
+    <state width="1493" height="243" key="GridCell.Tab.1.center" timestamp="1596093793219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992509" />
-    <state width="1493" height="243" key="GridCell.Tab.1.left" timestamp="1596015992509">
+    <state width="1493" height="243" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793219" />
+    <state width="1493" height="243" key="GridCell.Tab.1.left" timestamp="1596093793218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992509" />
-    <state width="1493" height="243" key="GridCell.Tab.1.right" timestamp="1596015992510">
+    <state width="1493" height="243" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793218" />
+    <state width="1493" height="243" key="GridCell.Tab.1.right" timestamp="1596093793219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992510" />
-    <state width="1493" height="243" key="GridCell.Tab.2.bottom" timestamp="1596015992510">
+    <state width="1493" height="243" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793219" />
+    <state width="1493" height="243" key="GridCell.Tab.2.bottom" timestamp="1596093793220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992510" />
-    <state width="1493" height="243" key="GridCell.Tab.2.center" timestamp="1596015992510">
+    <state width="1493" height="243" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793220" />
+    <state width="1493" height="243" key="GridCell.Tab.2.center" timestamp="1596093793219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.2.center/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992510" />
-    <state width="1493" height="243" key="GridCell.Tab.2.left" timestamp="1596015992510">
+    <state width="1493" height="243" key="GridCell.Tab.2.center/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793219" />
+    <state width="1493" height="243" key="GridCell.Tab.2.left" timestamp="1596093793219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.2.left/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992510" />
-    <state width="1493" height="243" key="GridCell.Tab.2.right" timestamp="1596015992510">
+    <state width="1493" height="243" key="GridCell.Tab.2.left/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793219" />
+    <state width="1493" height="243" key="GridCell.Tab.2.right" timestamp="1596093793220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.2.right/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596015992510" />
+    <state width="1493" height="243" key="GridCell.Tab.2.right/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596093793220" />
     <state x="277" y="58" key="SettingsEditor" timestamp="1596001172886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -350,10 +306,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596004872473" />
-    <state x="470" y="152" width="596" height="520" key="find.popup" timestamp="1596011793463">
+    <state x="470" y="152" width="853" height="520" key="find.popup" timestamp="1596090768033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="152" width="596" height="520" key="find.popup/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596011793463" />
+    <state x="470" y="152" width="853" height="520" key="find.popup/0.0.1536.824/-1920.0.1920.1160@0.0.1536.824" timestamp="1596090768033" />
   </component>
   <component name="masterDetails">
     <states>

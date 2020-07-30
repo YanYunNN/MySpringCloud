@@ -85,14 +85,12 @@ public class OrderService {
         List<OrderDetail> orderDetails = order.getOrderDetails();
         for (OrderDetail orderDetail : orderDetails) {
             // 通过商品微服务查询商品详细数据
-            Item item = this.itemService.queryItemById(orderDetail.getItem()
-                    .getId());
+            Item item = this.itemService.queryItemById3(orderDetail.getItem().getId());
             if (null == item) {
                 continue;
             }
             orderDetail.setItem(item);
         }
-
         return order;
     }
 }

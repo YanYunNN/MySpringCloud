@@ -21,7 +21,8 @@ eureka:
     ##显式指定ip
 #    ip-address: 127.0.0.1
     instance-id: ${spring.application.name}###${server.port} #指定实例id
-##配置LoadBalancer规则
-#app-item:
-#  ribbon:
-#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+
+#配置LoadBalancer规则
+app-item:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
