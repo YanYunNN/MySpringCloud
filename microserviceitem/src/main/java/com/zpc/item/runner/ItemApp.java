@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ComponentScan;
  */
 @SpringBootApplication
 @EnableEurekaClient
-@ComponentScan(basePackages = {"com.zpc.item.controller","com.zpc.item.service"})
+@ComponentScan(basePackages = {"com.zpc.item.controller", "com.zpc.item.service"})
 public class ItemApp {
     public static void main(String[] args) {
         SpringApplication.run(ItemApp.class, args);
